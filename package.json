@@ -1,0 +1,7 @@
+{
+    "name": "cordova-plugin-android-lib-resolver",
+    "version": "0.1.0",
+    "description": "This plugin is for solving Android library conflict problem.",
+    "author": "m-itkdev",
+    "license": "MIT"
+  }

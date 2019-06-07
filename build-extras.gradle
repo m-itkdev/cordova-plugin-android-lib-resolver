@@ -1,0 +1,7 @@
+ext.postBuildExtras = {
+    configurations.all {
+        resolutionStrategy {
+            force 'com.google.firebase:firebase-iid:17.1.1'
+        }
+    }
+}
